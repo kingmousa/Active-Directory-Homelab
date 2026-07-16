@@ -10,9 +10,8 @@ This project simulates an enterprise Windows Active Directory environment. The g
 - Windows Server 2022 Domain Controller
 - Windows 11 Enterprise Workstations
 - Ubuntu Linux Client
-- Active Directory Domain Services
-- DNS
-- Group Policy Management
+
+<img width="1900" height="1079" alt="Screenshot 2026-07-09 210952" src="https://github.com/user-attachments/assets/bb43437b-471c-454d-a5c8-f9ea4f705e9b" />
 
 ## Network
 
