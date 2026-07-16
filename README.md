@@ -2,29 +2,32 @@
 
 ## Overview
 
-This project simulates an enterprise Windows Active Directory environment. The goal was to gain hands-on experience with domain administration, identity management, access control, and security policies.
+This project simulates an enterprise Windows Active Directory environment. The goal was to gain hands-on experience with domain administration, identity management, access control, and security policies, and basic firewall configuration.
 
 ## Environment
 
+- Oracle VirtualBox
 - Windows Server 2022 Domain Controller
 - Windows 11 Enterprise Workstations
 - Ubuntu Linux Client
-- Oracle VirtualBox
 - Active Directory Domain Services
 - DNS
 - Group Policy Management
 
 ## Network
 
+Bridged Adapter Network
+
 Domain:
 lab.local
 
 Domain Controller:
-Windows Server 2022
+Windows Server 2022 (DC01)
 
 Clients:
 - Windows 11 Workstation (CLIENT01, CLIENT02)
 - Ubuntu Linux Workstation (UBUNTU01)
+
 
 
 ## Implemented Features
@@ -36,6 +39,7 @@ Clients:
 ✔ Implemented File Share Permissions  
 ✔ Configured NTFS Security  
 ✔ Joined Linux Systems to Domain  
+✔ Configured basic Windows firewall rules
 
 
 ## Skills Demonstrated
@@ -47,3 +51,4 @@ Clients:
 - DNS
 - SMB File Sharing
 - Linux Integration
+- Firewall Configuration
