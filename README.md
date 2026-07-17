@@ -44,7 +44,7 @@ Clients:
 ✔ Configured Group Policy Objects  
 ✔ Implemented File Share Permissions  
 ✔ Configured NTFS Security  
-✔ Joined Linux Systems to Domain  
+✔ Joined Linux System to Domain  
 ✔ Configured basic Windows firewall rules
 
 
@@ -57,4 +57,5 @@ Clients:
 - DNS
 - SMB File Sharing
 - Linux Integration
+- Linux Administration
 - Firewall Configuration
