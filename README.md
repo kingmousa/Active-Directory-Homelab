@@ -92,7 +92,7 @@ VirtualBox Overview: ![alt text](<images/Screenshot 2026-07-09 210952.png>)
 
 ## Infrastructure
 
-- [Active Directory][text](Active-Directory.md)
+- [Active Directory](Active-Directory.md)
 - [Organizational Units & Security Groups](docs/ou-security-groups.md)
 
 ## Administration
