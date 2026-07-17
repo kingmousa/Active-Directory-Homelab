@@ -66,7 +66,14 @@ VirtualBox Overview: ![alt text](<images/Screenshot 2026-07-09 210952.png>)
 
 # Project Features
 
-✔ Active Directory Domain Deployment
+✔ Created Active Directory Domain  
+✔ Configured Organizational Units  
+✔ Created Users and Security Groups  
+✔ Configured Group Policy Objects  
+✔ Implemented File Share Permissions  
+✔ Configured NTFS Security  
+✔ Joined Linux System to Domain  
+✔ Configured basic Windows firewall rules
 
 ✔ Organizational Unit (OU) Administration
 
