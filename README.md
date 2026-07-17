@@ -108,14 +108,10 @@ VirtualBox Overview: ![alt text](<images/Screenshot 2026-07-09 210952.png>)
 
 - [Ubuntu Domain Integration](Linux-Integration.md)
 
-## Validation
-
-- [Validation & Testing](docs/validation-testing.md)
-
 ## Reflection
 
-- [Lessons Learned](docs/lessons-learned.md)
-- [Future Improvements](docs/future-improvements.md)
+- [Lessons Learned](Lessons-Learned.md)
+- [Future Improvements](Future-Improvements.md)
 
 ---
 
