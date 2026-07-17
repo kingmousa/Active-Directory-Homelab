@@ -97,7 +97,7 @@ VirtualBox Overview: ![alt text](<images/Screenshot 2026-07-09 210952.png>)
 
 ## Administration
 
-- [Group Policy](docs/group-policy.md)
+- [Group Policy](Group-Policy.md)
 - [File Server & RBAC](docs/file-server-rbac.md)
 
 ## Security
