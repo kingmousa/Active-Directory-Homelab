@@ -106,7 +106,7 @@ VirtualBox Overview: ![alt text](<images/Screenshot 2026-07-09 210952.png>)
 
 ## Linux Integration
 
-- [Ubuntu Domain Integration](docs/linux-integration.md)
+- [Ubuntu Domain Integration](Linux-Integration.md)
 
 ## Validation
 
