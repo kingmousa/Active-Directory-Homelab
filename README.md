@@ -13,7 +13,14 @@ This project simulates an enterprise Windows Active Directory environment. The g
 
 <img width="1900" height="1079" alt="Screenshot 2026-07-09 210952" src="https://github.com/user-attachments/assets/bb43437b-471c-454d-a5c8-f9ea4f705e9b" />
 
+The Kali Linux VM will be apart of a future project I plan on completing. This particular VM was not used in this project and is not joined to the domain.
+
 ## Network
+
+Network Diagram:
+<img width="985" height="772" alt="Homelab diagram drawio" src="https://github.com/user-attachments/assets/edad4ac5-5943-4890-b1ae-2e5bd7a47392" />
+
+
 
 Bridged Adapter Network
 
