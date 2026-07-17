@@ -1,1 +1,0 @@
-Shown below is my network diagram for my homelab. I chose to go with the "Bridged Adapter" network setting for all my VMs in VirtualBox to ensure that Active Directory would work 
