@@ -49,7 +49,9 @@ Users of each security group were given modify permissions as well as read and w
 
 # Network Share Validation
 
-Departmental users were used to verify access to each network share.
+I created a GPO that would map network drives to users based on their security group.
+
+Departmental users were then used to verify access to each network share.
 
 Validation included:
 
