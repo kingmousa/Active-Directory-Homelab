@@ -102,7 +102,7 @@ VirtualBox Overview: ![alt text](<images/Screenshot 2026-07-09 210952.png>)
 
 ## Security
 
-- [Windows Firewall Hardening](docs/windows-firewall.md)
+- [Windows Firewall Hardening](Windows-Firewall.md)
 
 ## Linux Integration
 
