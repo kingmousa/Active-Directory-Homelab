@@ -64,7 +64,7 @@ These tests demonstrated that file access was enforced through Active Directory 
 An HR User logs in and accesses their network share on CLIENT02:![alt text](<images/Screenshot 2026-07-17 030000.png>)
 ![alt text](<images/Screenshot 2026-07-17 030151.png>)
 
-An HR User being denied access to the Accounting share because they do have the right permissions: ![alt text](<images/Screenshot 2026-07-17 030024.png>)
+An HR User being denied access to the Accounting share because they do not have the right permissions: ![alt text](<images/Screenshot 2026-07-17 030024.png>)
 
 ---
 
